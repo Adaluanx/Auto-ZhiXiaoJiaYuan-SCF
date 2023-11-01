@@ -1,7 +1,7 @@
 """
 版权所有：XuanRan
-微信：XuanRan_Dev
-邮箱：XuanRanDev@qq.com
+微信：IT-5swdl
+邮箱：Adaluanx@proton.me
 """
 
 from datetime import tzinfo, timedelta
